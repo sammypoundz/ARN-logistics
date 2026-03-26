@@ -143,7 +143,7 @@ const AboutPage = () => {
             href="/contact"
             className="bg-white text-primary px-8 py-3 rounded-lg inline-block hover:scale-105 transition"
           >
-            Contact Us
+            Contact Us Here
           </a>
         </div>
       </section>
